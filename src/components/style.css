@@ -1,0 +1,15 @@
+.score {
+    font-family: Arial, Helvetica, sans-serif,;
+    text-align: center;
+    font-size: 100px;
+}
+
+.main{
+    background-image: url("https://www.steptwo.com.au/wp-content/uploads/kmc_fixingsearch-W.jpg");
+
+}
+
+#input{
+    padding: left 100px;
+    align-content: center;
+}
