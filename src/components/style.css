@@ -1,0 +1,22 @@
+.instructions,
+.score {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+.main{
+    background-image: url("http://hdwpro.com/wp-content/uploads/2016/01/Hd-Abstract-Wallpaper.png");
+    background-image: cover;
+
+}
+
+.inputBox {
+    margin-left: 575px;
+
+}
+.searchBox {
+    padding: 20px 70px;
+    font-size: 20px;
+}
